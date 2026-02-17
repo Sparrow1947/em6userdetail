@@ -1,18 +1,1 @@
-[
-  {
-    "name": "raman",
-    "empId": "524",
-    "designation": "jr softwate dev",
-    "department": "IT",
-    "id": "76f70d30-d51d-4509-a4ba-d266b086ca5a",
-    "tasks": [],
-    "skills": [
-      {
-        "name": "sql",
-        "proficiency": "Intermediate",
-        "certifications": "0",
-        "id": "731f059b-59a6-4f9c-9870-3e5b7b7143e3"
-      }
-    ]
-  }
-]
+[]
