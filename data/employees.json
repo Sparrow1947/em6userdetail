@@ -5,7 +5,26 @@
     "designation": "Jr Software developer",
     "department": "IT",
     "id": "73678d4d-c00d-4a71-9609-8aa48cdcb136",
-    "tasks": [],
-    "skills": []
+    "tasks": [
+      {
+        "name": "Issue Resolving",
+        "client": "All client",
+        "role": "",
+        "from": "",
+        "to": "",
+        "isOngoing": true,
+        "description": "",
+        "dayToDay": "",
+        "id": "e8288fc9-f0ba-469f-97f7-a7e134b69618"
+      }
+    ],
+    "skills": [
+      {
+        "name": "SQL",
+        "proficiency": "Intermediate",
+        "certifications": "0",
+        "id": "924eecca-d2da-49ed-ba70-91c45eebe0ae"
+      }
+    ]
   }
 ]
